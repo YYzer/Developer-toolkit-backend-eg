@@ -1,0 +1,26 @@
+{
+  "name": "developer-toolkit-25-jan---backend-eg",
+  "version": "1.0.0",
+  "description": "This is 27 Jan class",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YYzer/Developer-toolkit-backend-eg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YYzer/Developer-toolkit-backend-eg/issues"
+  },
+  "homepage": "https://github.com/YYzer/Developer-toolkit-backend-eg#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "express-openid-connect": "^2.5.2",
+    "mysql": "^2.18.1"
+  }
+}
